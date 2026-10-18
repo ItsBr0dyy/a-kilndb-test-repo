@@ -1,0 +1,6 @@
+run:
+  port: 5000
+
+resources:
+  memory: 128m
+  cpu: 0.25
