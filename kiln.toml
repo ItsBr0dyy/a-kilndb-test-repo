@@ -1,0 +1,7 @@
+[kiln]
+port = 5000
+memory = "128m"
+cpu = 0.25
+
+[kiln.env]
+LOG_LEVEL = "info"
